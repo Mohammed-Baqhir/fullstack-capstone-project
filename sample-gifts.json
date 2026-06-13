@@ -1,0 +1,18 @@
+[
+  {"name":"Wooden Chair","category":"Furniture","condition":"Good","age":2,"description":"Comfortable wooden chair.","image":"https://via.placeholder.com/300x200?text=Wooden+Chair","postedDate":"2026-06-01","comments":["Looks useful"]},
+  {"name":"Study Table","category":"Furniture","condition":"Excellent","age":1,"description":"Compact study table.","image":"https://via.placeholder.com/300x200?text=Study+Table","postedDate":"2026-06-02"},
+  {"name":"Bookshelf","category":"Furniture","condition":"Fair","age":3,"description":"Small bookshelf.","image":"https://via.placeholder.com/300x200?text=Bookshelf","postedDate":"2026-06-03"},
+  {"name":"Table Lamp","category":"Electronics","condition":"Good","age":1,"description":"Working desk lamp.","image":"https://via.placeholder.com/300x200?text=Lamp","postedDate":"2026-06-04"},
+  {"name":"Mixer Grinder","category":"Kitchen","condition":"Good","age":2,"description":"Kitchen mixer grinder.","image":"https://via.placeholder.com/300x200?text=Mixer","postedDate":"2026-06-05"},
+  {"name":"Coffee Mug Set","category":"Kitchen","condition":"Excellent","age":1,"description":"Set of four mugs.","image":"https://via.placeholder.com/300x200?text=Mugs","postedDate":"2026-06-06"},
+  {"name":"Wall Clock","category":"Home Decor","condition":"Good","age":2,"description":"Round wall clock.","image":"https://via.placeholder.com/300x200?text=Clock","postedDate":"2026-06-07"},
+  {"name":"Photo Frame","category":"Home Decor","condition":"Excellent","age":1,"description":"Decorative photo frame.","image":"https://via.placeholder.com/300x200?text=Frame","postedDate":"2026-06-08"},
+  {"name":"Blanket","category":"Household","condition":"Good","age":1,"description":"Clean blanket.","image":"https://via.placeholder.com/300x200?text=Blanket","postedDate":"2026-06-09"},
+  {"name":"Curtains","category":"Household","condition":"Fair","age":3,"description":"Window curtains.","image":"https://via.placeholder.com/300x200?text=Curtains","postedDate":"2026-06-10"},
+  {"name":"Plant Pot","category":"Garden","condition":"Good","age":2,"description":"Ceramic plant pot.","image":"https://via.placeholder.com/300x200?text=Plant+Pot","postedDate":"2026-06-11"},
+  {"name":"Garden Tools","category":"Garden","condition":"Good","age":4,"description":"Basic garden tool set.","image":"https://via.placeholder.com/300x200?text=Garden+Tools","postedDate":"2026-06-12"},
+  {"name":"Kids Toy Car","category":"Toys","condition":"Good","age":2,"description":"Toy car for kids.","image":"https://via.placeholder.com/300x200?text=Toy+Car","postedDate":"2026-06-13"},
+  {"name":"Board Game","category":"Toys","condition":"Excellent","age":1,"description":"Family board game.","image":"https://via.placeholder.com/300x200?text=Board+Game","postedDate":"2026-06-14"},
+  {"name":"Backpack","category":"Accessories","condition":"Good","age":2,"description":"Usable backpack.","image":"https://via.placeholder.com/300x200?text=Backpack","postedDate":"2026-06-15"},
+  {"name":"Water Bottle","category":"Accessories","condition":"Excellent","age":1,"description":"Reusable bottle.","image":"https://via.placeholder.com/300x200?text=Bottle","postedDate":"2026-06-16"}
+]
